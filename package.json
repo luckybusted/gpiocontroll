@@ -12,6 +12,7 @@
   "dependencies": {
     "alexa-app": "^2.3.4",
     "alexa-sdk": "^1.0.11",
+    "async": "^2.6.0",
     "aws-sdk": "^2.174.0",
     "body-parser": "^1.15.2",
     "debug": "^2.2.0",
