@@ -24,7 +24,7 @@ var newSessionHandlers = {
 
         let params = {
             Bucket: 'gpiocontroll', // your bucket name,
-            Key: 'test.txt', // path to the object you're looking for
+            Key: 'test.txt', // name of your file
             Body: json
         };
 
